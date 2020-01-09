@@ -1,0 +1,25 @@
+.yes{
+color:black;
+background-color: green;
+display:inline;
+font-size:30px;}
+
+.dont{
+color:black;
+background-color:red;
+display:inline;
+font-size:30px;
+margin-top:30px;}
+
+body{
+background-image: url(img/gradient.png);}
+
+.play{
+text-align: center;
+font-size:50;
+color:red;
+}
+
+a{
+color:red;
+}
